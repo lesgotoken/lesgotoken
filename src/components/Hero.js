@@ -160,8 +160,8 @@ function Hero(props) {
                                 </Button>
                             </Box>
                             <Box display="inline">                        
-                                <Button variant="contained" color="primary" className={classes.buttonbreakpoint} style={{ "transform": "scale(1.5)", "transform-origin": "left"}}>
-                                    JOIN OUR DISCORD
+                                <Button href="https://lesgocoinmint.com/" variant="contained" color="primary" className={classes.buttonbreakpoint} style={{ "transform": "scale(1.5)", "transform-origin": "left"}}>
+                                    MINT SITE
                                 </Button>
                             </Box>
                         </div>
